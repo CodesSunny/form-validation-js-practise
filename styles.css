@@ -68,3 +68,11 @@
     background-color: #d3c60c;
     color: #961c9c ;
   }
+
+  /* /error : intially hidden */
+  span{  
+    color: red;
+    display: inline-block;
+    margin-top: 5px;
+    display: none;   
+  }
